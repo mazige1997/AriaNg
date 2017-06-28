@@ -12,7 +12,7 @@ PKG_VERSION:=2017-06-26
 PKG_RELEASE:=1
 
 PKG_SOURCE_PROTO:=git
-PKG_SOURCE_URL:=https://github.com/mayswind/AriaNg-DailyBuild
+PKG_SOURCE_URL:=https://github.com/mayswind/AriaNg-DailyBuild.git
 PKG_SOURCE_VERSION:=a3222c952f91d7232123a371ed797ead69e7edb8
 
 PKG_LICENSE:=LGPL-3.0
