@@ -43,7 +43,7 @@ define Package/aria-ng/install
 		$(1)/www/aria-ng
 	$(CP) \
 		$(PKG_BUILD_DIR)/{index.html,index.manifest} \
-		$(1)/www/yaaw
+		$(1)/www/aria-ng
 endef
 
 $(eval $(call BuildPackage,aria-ng))
