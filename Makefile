@@ -11,8 +11,8 @@ PKG_NAME:=aria-ng
 PKG_VERSION:=2017-06-28
 PKG_RELEASE:=1
 
-PKG_SOURCE_PROTO:=git
 PKG_SOURCE_URL:=http://localhost
+PKG_SOURCE:=$(PKG_NAME)-$(PKG_VERSION).tar.gz
 
 PKG_LICENSE:=LGPL-3.0
 PKG_MAINTAINER:=Mazige <gaomin@gmail.com>
